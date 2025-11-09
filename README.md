@@ -9,6 +9,6 @@ Nextjs Commands:
 <ul>
 <li>1- npx create-next-app@latest</li>
 <li>Or: Manual Installation: npm i next@latest react@latest react-dom@latest  OR yarn add next@latest react@latest react-dom@latest</li>
-<li> </li>
+<li>Using Pages Router</li>
 <li> </li>
 </ul>
